@@ -1,0 +1,11 @@
+Cabin 1 occupied by rrr
+Cabin 2 Is Empty.
+Cabin 3 Is Empty.
+Cabin 4 Is Empty.
+Cabin 5 Is Empty.
+Cabin 6 Is Empty.
+Cabin 7 Is Empty.
+Cabin 8 Is Empty.
+Cabin 9 Is Empty.
+Cabin 10 Is Empty.
+Cabin 11 Is Empty.
